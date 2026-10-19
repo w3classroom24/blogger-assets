@@ -451,8 +451,8 @@ math{font-family:inherit}\
         wrap.innerHTML =
             '<button type="button" id="pdf-view-btn" style="' +
             'background:linear-gradient(90deg,#1e90ff 0%,#16a085 100%);' +
-            'color:#fff;padding:8px 28px;border:none;border-radius:6px;' +
-            'font-size:16px;font-weight:bold;cursor:pointer;' +
+            'color:#fff;padding:10px 24px;border:none;border-radius:5px;' +
+            'font-weight:bold;cursor:pointer;' +
             'box-shadow:0 4px 12px rgba(30,144,255,0.35);' +
             'font-family:inherit;"> <i class="fa fa-download"></i> পিডিএফ ভার্সন পড়ুন </button>';
 
