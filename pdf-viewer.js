@@ -100,7 +100,7 @@
 *{box-sizing:border-box; -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important;}\
 \
 html,body{\
-  font-family:\'SolaimanLipi\',\'Kalpurush\',\'Nikosh\',\'SutonnyMJ\',\'Hind Siliguri\',\'Noto Sans Bengali\',\'Nirmala UI\',\'Vrinda\',\'Shonar Bangla\',\'Bangla\',\'Bangla Sangam MN\',\'Bangla MN\',system-ui,-apple-system,\'Segoe UI\',Roboto,Arial,sans-serif;\
+  font-family:\'SolaimanLipi\',\'Kalpurush\',\'Hind Siliguri\',\'Noto Sans Bengali\',\'Nirmala UI\',\'Vrinda\',\'Shonar Bangla\',\'Bangla\',\'Bangla Sangam MN\',\'Bangla MN\',system-ui,-apple-system,\'Segoe UI\',Roboto,Arial,sans-serif;\
   margin:0;padding:20px;background:#f4f4f4;color:#222;\
   font-size:15px;line-height:1.55;font-weight:normal;\
 }\
